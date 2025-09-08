@@ -15,7 +15,7 @@ GitQuery is an intelligent assistant that helps developers, open-source contribu
 
 ## 🚀 Live Demo
 
-Check it out here: [GitQuery Live]([https://your-live-link.com/](https://ksrahul05.github.io/GitQuery-UI/))  
+Check it out here: [GitQuery Live]([https://ksrahul05.github.io/GitQuery-UI/])  
 ---
 
 ## 📥 Getting Started
@@ -30,7 +30,7 @@ Check it out here: [GitQuery Live]([https://your-live-link.com/](https://ksrahul
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/GitQuery.git
+    git clone https://github.com/ksrahul05/GitQuery.git
     cd GitQuery
     ```
 
